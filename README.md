@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Consulta de premiados da OBMEP
 
 Um programa em Python para consultar, filtrar e analisar os premiados na Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP).
